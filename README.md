@@ -1,24 +1,19 @@
-# Calculadora simple en Python
+# 👋 ¡Hola! Soy Marcos
 
-Este repositorio contiene un proyecto de ejemplo con varios ficheros de Python:
-- `main.py`: programa principal con un menú.
-- `utils.py`: funciones matemáticas básicas.
-- `data.py`: lista de datos de ejemplo.
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW).  
+Me gusta programar, aprender nuevas tecnologías y crear proyectos útiles.
 
-## Objetivo
-El repo se utilizará en prácticas de **Git y GitHub** (ramas, PR, conflictos, issues).
+## 🚀 Tecnologías que uso
+- 💻 Java, HTML, CSS, JavaScript
+- 🗄️ MySQL, Git, GitHub
+- ⚙️ Spring Boot y Node.js (aprendiendo)
 
-## Ejecución
-```bash
-python main.py
-```
+## 📊 Estadísticas de mi perfil
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=[munozlariosmarcos-ctrl]&show_icons=true&theme=radical)
 
-## Colaboración
-1. Crea tu rama personal.
-2. Haz commits descriptivos.
-3. Abre un Pull Request siguiendo la plantilla
+## 🏆 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[munozlariosmarcos-ctrl]&layout=compact&theme=radical)
 
-## Integrantes del grupo
-1. David Granados Cruz
-2. Nicolás Simón Milano
-3. Javier Molero Moreno
+## 🌐 Enlaces
+- 💼 [Mi perfil en GitHub](https://github.com/[munozlariosmarcos-ctrl])
+- 📫 Contacto: [munozlariosmarcos@alumnos.ilerna.es]
